@@ -7,4 +7,4 @@ image==1.5.33
 asgiref==3.7.2
 sqlparse==0.4.4
 bytesbufio==1.0.3
-xlswriter
+XlsxWriter==3.1.9
